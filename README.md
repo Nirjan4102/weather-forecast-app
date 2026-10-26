@@ -1,5 +1,9 @@
 # 🌤️ Weather Forecast Application (API-Driven Engineering Project)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen?style=for-the-badge&logo=github)](https://nirjan4102.github.io/weather-forecast-app/)
+
+🔗 **Public Live Application Link:** [https://nirjan4102.github.io/weather-forecast-app/](https://nirjan4102.github.io/weather-forecast-app/)
+
 A full-stack, production-ready Weather Forecast Dashboard built with **React.js**, **Node.js with Express.js**, and **OpenWeatherMap API**. 
 
 Designed with an emphasis on **API security**, **backend proxying**, **in-memory caching**, **resilient fallback handling**, and **dynamic UI updates**.
